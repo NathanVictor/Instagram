@@ -2,6 +2,6 @@
 
 Sobre:
 
-*Baixar aplicativo
 * Trocar conta
 * Foto de Perfil
+* imagem de celular
