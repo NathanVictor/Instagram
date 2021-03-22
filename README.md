@@ -1,3 +1,7 @@
-# Instagram
-(Recriando a pagina inicial do Instagram)
-Refiz a pagina do instagram com a ideia de treinar e ampliar meu conhecimento...
+# # Refazendo a tela do Instagram 👨‍💻
+
+Sobre:
+
+*Baixar aplicativo
+* Trocar conta
+* Foto de Perfil
